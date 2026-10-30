@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">devicemonitor</string>
+    <string name="monitor_title">Device Monitor</string>
+    <string name="loading_devices">Loading devices</string>
+    <string name="load_error">Unable to load devices. Please retry.</string>
+    <string name="empty_devices">No devices available</string>
+    <string name="device_row">%1$s — Battery %2$d%%</string>
+    <string name="refresh_devices">Refresh</string>
+    <string name="simulate_error">Simulate failure</string>
+    <string name="retry_devices">Retry</string>
+</resources>
