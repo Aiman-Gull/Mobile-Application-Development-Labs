@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 05 – Device Readiness Checker
 
 ## Rules
@@ -37,3 +38,7 @@ and how the result card is read out.
 
 ## UI test result
 Both Compose UI tests passed on INFINIX Infinix X6831 (Android 13).
+=======
+# Mobile-Application-Development-Labs
+Lab tasks and projects for Mobile Application Development course.
+>>>>>>> 53548fd523ed13e6e62b285f2f1f94db176a6ba2
