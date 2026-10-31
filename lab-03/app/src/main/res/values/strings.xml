@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DeviceManager</string>
+
+    <string name="device_name_value">Device: %1$s</string>
+    <string name="battery_value">Battery: %1$d%%</string>
+    <string name="btn_edit_device">EDIT DEVICE</string>
+    <string name="btn_open_documentation">OPEN DOCUMENTATION</string>
+
+    <string name="label_device_name">Device name</string>
+    <string name="label_battery">Battery</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_cancel">CANCEL</string>
+
+    <string name="error_invalid_name">Please enter a valid device name</string>
+    <string name="error_invalid_battery">Battery must be between 0 and 100</string>
+</resources>
